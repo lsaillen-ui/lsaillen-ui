@@ -1,35 +1,46 @@
-# Bonjour, moi c’est Louis 👋
+<p align="center">
+  <img src="assets/profile-header.svg" alt="Louis — créateur indépendant d’applications mobiles" width="100%">
+</p>
 
-[English version](README.en.md)
+<p align="center">
+  <a href="README.en.md">English version</a>
+</p>
 
-Je conçois des applications mobiles pensées pour résoudre des problèmes concrets, avec une attention particulière portée à la simplicité, à l’usage réel et à la qualité de l’expérience.
+<p align="center">
+  Je conçois des applications mobiles qui partent d’un problème réel<br>
+  et deviennent des expériences simples, utiles et soignées.
+</p>
 
 ## Mes créations
 
-### Vault
-
-**Bêta · iOS**
-
-Un portefeuille mobile pour centraliser ses bons de réduction, coupons et cartes cadeaux, les organiser et recevoir un rappel avant leur expiration.
-
-→ [Découvrir Vault](https://github.com/lsaillen-ui/vault-showcase)
-
-### VetNote
-
-**En développement · Mobile**
-
-Une application conçue pour simplifier l’organisation et la prise de notes lors des interventions terrain des vétérinaires, même sans connexion réseau.
-
-→ [Découvrir VetNote](https://github.com/lsaillen-ui/vetnote-showcase)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Vault</h3>
+      <p><code>BÊTA</code> <code>iOS</code></p>
+      <p>Un portefeuille mobile pour centraliser ses bons de réduction, coupons et cartes cadeaux, les organiser et recevoir un rappel avant leur expiration.</p>
+      <p><a href="https://github.com/lsaillen-ui/vault-showcase"><strong>Découvrir Vault →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>VetNote</h3>
+      <p><code>EN DÉVELOPPEMENT</code> <code>MOBILE</code></p>
+      <p>Une application conçue pour simplifier l’organisation et la prise de notes lors des interventions terrain des vétérinaires, même sans connexion réseau.</p>
+      <p><a href="https://github.com/lsaillen-ui/vetnote-showcase"><strong>Découvrir VetNote →</strong></a></p>
+    </td>
+  </tr>
+</table>
 
 ## Ma manière de créer
 
-- Partir d’un problème réel avant de penser aux fonctionnalités.
-- Construire rapidement une première version utilisable.
-- Améliorer le produit par itérations courtes.
-- Garder une expérience claire, directe et adaptée au contexte d’usage.
-- Protéger les données et les idées qui doivent rester privées.
+| Problème réel | Itérations courtes | Expérience claire |
+| :--- | :--- | :--- |
+| Comprendre l’usage avant d’imaginer les fonctionnalités. | Construire une première version, l’éprouver, puis l’améliorer. | Aller à l’essentiel et respecter le contexte de l’utilisateur. |
 
-## Me contacter
+Je développe rapidement, tout en gardant une frontière nette entre ce qui peut être montré et ce qui doit rester privé.
 
-[koveo.agency@gmail.com](mailto:koveo.agency@gmail.com)
+---
+
+<p align="center">
+  Une question ou une idée ?<br>
+  <a href="mailto:koveo.agency@gmail.com"><strong>koveo.agency@gmail.com</strong></a>
+</p>
